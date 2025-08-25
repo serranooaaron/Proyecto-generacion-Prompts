@@ -9,7 +9,7 @@ Estructura del Repositorio
     prompts/
     En esta carpeta se encuentran los prompts diseñados para las diferentes etapas del proyecto. Cada archivo incluye el prompt en sí mismo y una breve descripción de su función.
 
-    Entregas/
+    entregas/
     Aquí se almacenan los resultados de la ejecución de los prompts. Se incluyen tanto los textos generados por el modelo de lenguaje como las imágenes creadas por la IA, para visualizar el resultado final del proceso.
 
     README.md
@@ -17,15 +17,15 @@ Estructura del Repositorio
 
 Tecnologías Utilizadas
 
-    Modelo de lenguaje (Texto-Texto): Gemini AI
+    Modelo de lenguaje (Texto-Texto): Gemini AI - OpenAI
 
-    Modelo de imagen (Texto-Imagen): Imagen de Google
+    Modelo de imagen (Texto-Imagen): Imagen de Google - Dall-e - Nightcafe
 
 Autor
 
     Aaron Serrano
 
-    Curso: Prompt Engineering
+    Curso: Inteligencia Artificial: Generación de Prompts
 
     Comisión: 86185
 
