@@ -1,6 +1,6 @@
 PROYECTO: GENERACIÓN DE PROMPTS
 
-Este repositorio contiene el proyecto final del curso de Prompt Engineering de Coderhouse. El objetivo principal es explorar y demostrar la aplicación práctica de la generación de prompts para resolver problemas específicos, utilizando modelos de IA de texto a texto y de texto a imagen.
+Este repositorio contiene las preentregas, y el proyecto final del curso de "Inteligencia Artificial: Generación de Prompts" de Coderhouse. El objetivo principal es explorar y demostrar la aplicación práctica de la generación de prompts para resolver problemas específicos, utilizando modelos de IA de texto a texto y de texto a imagen.
 
 El proyecto se enfoca en la creación de una serie de prompts diseñados para optimizar el proceso de creación de contenido para redes sociales. La meta es mostrar cómo, a través de una ingeniería de prompts bien estructurada, es posible obtener resultados coherentes y de alta calidad a partir de descripciones iniciales simples.
 
